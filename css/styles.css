@@ -563,6 +563,11 @@ Services
 }
 .service-icon {
   position: absolute;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   left: 50%;
   bottom: 0;
   font-size: 2rem;
